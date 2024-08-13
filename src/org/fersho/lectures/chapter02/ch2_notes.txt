@@ -1,0 +1,25 @@
+java operator
+
+* operator -> special simbol that can be applied to a set of variables, values or literals and returns a result.
+* operands -> refers to the value or variable the operator is being applied to.
+* operator can be unary, binary, ternary.
+* se refiere al a direccion de la evalucion. algunos operators tinen mayor precendencia. casi siempre de izq a der.
+
+
+* Logical complement operator (!)
+    - flips the value of a boolean expression.
+
+* Bitwise complement operator (~)
+    - flips all the 0s and 1s in a number.
+    - Only can be applied to integer numeric type.
+
+* Negation operator (-)
+    - Reverse the sign of a numeric expression.
+
+* Increment (++) and decrement (--) operators
+    - Have a high order of precedence.
+    - can be applied to a numeric variables.
+    - Pre-increment ++x -> increases the value by 1 and returns the new value.
+    - Pre-decrement --x -> decreases the value by 1 and returns the new value.
+    - Post-increment x++ -> increases the value by 1 and returns the original value.
+    - Post-decrement x-- -> decreases the value by 1 and returns the original value.
