@@ -21,6 +21,14 @@ Constructor
     x = null; //No compila.
 
 - local variable no tiene valor por defecto. Deben inicializarse antes de usarse.
+- instance variable -> varable definida dentro de un objeto.
+- class variable -> variable definda a nivel de clase y es compartida a todas la instacias de la clase. Tiene la palabra "static".
+    - no es requerido iniicalizarse. tiene valor por defecto. 0 para valores numericos, null para objetos, false para boolean.
+
+* Var 
+- el compilador asiga el tipo.
+- deben declararse e inicializarse en la misma linea.
+- solo para locals varibles, no para instance varibles.
 
 
 
