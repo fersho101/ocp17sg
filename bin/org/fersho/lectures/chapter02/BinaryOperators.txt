@@ -1,0 +1,19 @@
+*** ~Binary Operators ***
+    * Take two operands.
+    * They can be used to perform mathematical opertions, create logical expressions, perform basic variable 
+        assignments.
+    * Arithmetic operators -> Operate on numeric values.
+    -Addition adds two numeric values.
+    -Subtraction -> Subtracts two numeric va.
+    -Multiplication -> Multiplies two numeric values.
+    -Division -> Divides one numeric value by another.
+    -Modulus -> Returns the remainder after division of one numeric value by another.
+
+    * parentheses
+        - java dont allow use [].
+
+    * Numeric promotion
+        - for two different data types, java promote to the large of the two data types.
+        - if one of the values is floating-point, the result will be a floating-point value.
+        - for the smaller data types ( byte, short, char ) if they are used with  any binaru operators, they will be promote to int.
+        - after all promotions has occured, the result will have the same data types as its operends.
