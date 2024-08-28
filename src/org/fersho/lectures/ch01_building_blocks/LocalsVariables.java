@@ -3,11 +3,11 @@ package org.fersho.lectures.ch01_building_blocks;
 public class LocalsVariables {
     public void findAnswer(boolean check) {
         int answer;
-        int atherAnswer;
-        int onlyOneBranch;
+        //int atherAnswer;
+        //int onlyOneBranch;
 
         if (check) {
-            onlyOneBranch = 1;
+         //   onlyOneBranch = 1;
             answer = 1;
         } else {
             answer = 1;
@@ -17,7 +17,7 @@ public class LocalsVariables {
     }
 
     public void checkAnswer() {
-        boolean value;
+       // boolean value;
         // findAnswer(value); // No compila. value no esta inicializada.
     }
 
