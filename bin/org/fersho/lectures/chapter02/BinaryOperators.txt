@@ -17,3 +17,12 @@
         - if one of the values is floating-point, the result will be a floating-point value.
         - for the smaller data types ( byte, short, char ) if they are used with  any binaru operators, they will be promote to int.
         - after all promotions has occured, the result will have the same data types as its operends.
+
+    * Assigment operator
+        - Is the binary operator that modify or assigns the  variable on the left whit the value on the rigth side of the equation.
+        - this evaluate from the rigth to left.
+
+    * Casting values
+        - Is a unary operation where one data type is explicitly interpreted as another data type.
+        - Is performed by placing the data type, enclosing in parentheses to the left of the value to cast. e: int fur = (int)5;
+    
