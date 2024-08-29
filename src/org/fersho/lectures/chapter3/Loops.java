@@ -66,13 +66,13 @@ public class Loops {
         String[] names = { "Jesus", "Jose", "Maria", "Juan", "Atonio", "Fernando", "Angel", "Elsa" };
         int[][] nums = { { 5, 2, 1, 3 }, { 3, 9, 9, 9 }, { 5, 7, 12, 7 } };
 
-        // ej01.eatCheese(9);
+        ej01.eatCheese(9);
 
-        // ej01.forLoop(10);
-        // ej01.forLoopReverse(10);
-        // ej01.multiTermsForLoop(0);
-        // ej01.forEachLoop(names);
-        //ej01.nestedLoops(nums);
+        ej01.forLoop(10);
+        ej01.forLoopReverse(10);
+        ej01.multiTermsForLoop(0);
+        ej01.forEachLoop(names);
+        ej01.nestedLoops(nums);
         ej01.nestedLoops2(8);
     }
 }
