@@ -8,14 +8,15 @@
  * f. continue
  * g. None of the above, as the code contains a compiler error. 
  * A09: b, c, e.
+ * NOTE: commenting bunny and rabbit to compile.
  */
 package org.fersho.review_ch03;
 
 public class Q09 {
     public static void main(String[] args) {
         int count = 0;
-        BUNNY: for (int row = 1; row <= 3; row++) {
-            RABBIT: for (int col = 0; col < 3; col++) {
+        /* BUNNY: */ for (int row = 1; row <= 3; row++) {
+            /* RABBIT: */ for (int col = 0; col < 3; col++) {
                 if ((col + row) % 2 == 0) {
                     break;
                 }
