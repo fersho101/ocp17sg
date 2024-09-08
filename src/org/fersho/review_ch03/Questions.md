@@ -28,3 +28,13 @@ d. A switcc expression that take a String and assigns the result to a variable r
 e. The body of a do/while loop is guaranteed to be executed at least once.
 f. An if statement can have multiple corresponding else statement.
 A06: c, d, e.
+
+Q18. Which statement about pattern matching and flow scoping are correct?
+a. Pattern matching whit an if statement is implemented using the instance operator. 
+b. Pattern matching whit an if statement is implemented using the instanceon operator. 
+c. Pattern matching whit an if statement is implemented using the instanceof operator. 
+d. The pattern variable cannot be accessed afternthe if statement in which it is declared.
+e. Flow scoping means a pattern is only accesible  if the compiler can discern its type.
+f. Pattern matching can be used to declare a variable with an else statement.
+A18: c, e.
+
