@@ -23,7 +23,6 @@ public class Q22 {
             case 3:
                 System.out.print(5 + " ");
         }
-
         while (tailFeathers > 1) {
             System.out.print(--tailFeathers + " ");
         }
