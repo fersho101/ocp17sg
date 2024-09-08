@@ -1,4 +1,4 @@
-package org.fersho.lectures.ch01_building_blocks;
+package org.fersho.lectures.chapter01;
 
 public class Chicken {
     int numEggs = 12;
