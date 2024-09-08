@@ -38,3 +38,12 @@ e. Flow scoping means a pattern is only accesible  if the compiler can discern i
 f. Pattern matching can be used to declare a variable with an else statement.
 A18: c, e.
 
+Q24. Which of the following are possible data types for friends that would allow the code to compile?
+a. Set
+b. Map
+c. String
+d. int[]
+e. Collection
+f. StringBuilder
+g. None of the above.
+A24: g. "in"  doesn't exist in java. Fixing the code could be compile with Set, int[] and Colection.
