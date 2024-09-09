@@ -1,16 +1,20 @@
 #
-####  _Q01. Which of the following Java operators can be used with boolean variables?_ 
-* a. ==
-* b. +
-* c. --
-* d. !
-* e. -
-* f. ~
-* g. Cast with (boolean)
-#### A01: a, d, g.
+###  _Q01. Which of the following Java operators can be used with boolean variables?_ 
+a) ==
+b) +
+c) --
+d) !
+e) -
+f) ~
+g) Cast with (boolean)
+### A01: a, d, g.
 #
 ### *Q02. What data type (or types) will allow the following code snippet to compile?*
-
+```
+byte apples = 5;
+short oranges = 10;
+_____ bananas = apples + oranges;
+```
 #### a) int
 #### b) long 
 #### c) boolean
@@ -19,11 +23,15 @@
 #### f) byte
 
 ### A02: a, b, d.
->[!NOTE]
+
 #
 ### *Q03. What change, when applied independently, would allow the following code snipped to compile?*
 
-> 
+```
+long ear = 10;
+int hearing = 2 * ear;
+```
+ 
 
 #### a) No change; It compiles as is.
 #### b) Cast ear on line 4 to int. 
