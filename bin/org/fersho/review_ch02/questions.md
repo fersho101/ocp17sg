@@ -53,3 +53,13 @@ int hearing = 2 * ear;
 #### g) ^, +, =, +=
 ### A05: a, c.
 # 
+###  _Q12. The ___ operator increase a value and returns the original value, while the ___ operator decrease a value and returns the new value._ 
+
+#### a) post-increment, post-increment
+#### b) pre-decrement, post-decrement
+#### c) post-increment, post-decrement
+#### d) post-increment, pre-decrement
+#### e) pre-increment, pre-decrement
+#### f) pre-increment, post-decrement
+### A012: d. 
+# 
