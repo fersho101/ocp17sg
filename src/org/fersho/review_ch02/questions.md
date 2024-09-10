@@ -1,12 +1,12 @@
 # Chapter 02  
 ###  _Q01. Which of the following Java operators can be used with boolean variables?_ 
-a) ==
-b) +
-c) --
-d) !
-e) -
-f) ~
-g) Cast with (boolean)
+#### a) ==
+#### b) +
+#### c) --
+#### d) !
+#### e) -
+#### f) ~
+#### g) Cast with (boolean)
 ### A01: a, d, g.
 #
 ### *Q02. What data type (or types) will allow the following code snippet to compile?*
@@ -40,5 +40,16 @@ int hearing = 2 * ear;
 #### e) Change the data type of hearing on line 4 to short.
 #### f) Change the data type of hearing on line 4 to long.
 
-### AQ03: b, c, d, f.
+### A03: b, c, d, f.
 #
+###  _Q05. Which of the following operators are ranked in increasing or the same order of precedence? Assume the +operator is binary addition, not the unary form._ 
+
+#### a) +, *, %, --
+#### b) ++, (int), *
+#### c) =, ==, !
+#### d) (short), =, !, *
+#### e) *, /, %, +, ==
+#### f) !, ||, &
+#### g) ^, +, =, +=
+### A05: a, c.
+# 
