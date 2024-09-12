@@ -62,4 +62,24 @@ int hearing = 2 * ear;
 #### e) pre-increment, pre-decrement
 #### f) pre-increment, post-decrement
 ### A012: d. 
+#
+###  _Q14. Which of the following statement are correct?_ 
+#### a) The return value of an assignment operation expression can be void.
+#### b) The inequality operator (!=) can be used to compare objects.
+#### c) The equality operator (==) can be used to compare a boolean value with a numeric value.
+#### d) During runtime tha & and | operators may cause only the left side of the expression to be evaluated.
+#### e) The return value of and assignment operation expression is the value of the newly assigned variable.
+#### f) In java, 0 and false may be used interchangeably.
+#### g) The logical complement operator (!) cannot be used to flip nemeric values.
+### A14: b, e, g.
+# 
+###  _Q1. Which operators take three operands or values?_ 
+#### a) =
+#### b) &&
+#### c) *=
+#### d) ? =
+#### e) &
+#### f) ++
+#### g) /
+### A15: d.
 # 
