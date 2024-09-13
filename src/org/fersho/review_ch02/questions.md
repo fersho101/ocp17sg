@@ -83,3 +83,12 @@ int hearing = 2 * ear;
 #### g) /
 ### A15: d.
 # 
+###  _Q18. Which of the following can be used to change the order of operation in an expression?_ 
+#### a) []
+#### b) <>
+#### c) ()
+#### d) \ /
+#### e) {}
+#### f) " " 
+### A18: c.
+# 
