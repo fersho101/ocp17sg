@@ -91,4 +91,13 @@ int hearing = 2 * ear;
 #### e) {}
 #### f) " " 
 ### A18: c.
-# 
+#
+###  _Q20. Which of the following statements about unary operators are true?_ 
+#### a) unary operator are always executed before any surronding numeric binary or ternary operators.
+#### b) The - operator can be used to flip a boolean value.
+#### c) The pre-increment operator (++) returns the value of the variable before the increment is applied. 
+#### d) The post-decrement operator (--) returns the value of the variable before the decrement is applied. 
+#### e) The ! operator cannot be used on numeric values.
+#### f) None of the above.
+### A18: a, d, e.
+ 
