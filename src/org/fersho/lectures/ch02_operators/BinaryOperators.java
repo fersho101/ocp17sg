@@ -1,4 +1,4 @@
-package org.fersho.lectures.chapter02;
+package org.fersho.lectures.ch02_operators;
 
 public class BinaryOperators {
 

@@ -1,4 +1,4 @@
-package org.fersho.lectures.chapter01;
+package org.fersho.lectures.ch01_building_blocks;
 
 public class Chick {
     public Chick() {

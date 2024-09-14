@@ -1,4 +1,4 @@
-package org.fersho.lectures.chapter3;
+package org.fersho.lectures.ch03_making_decisions;
 
 import java.util.Scanner;
 
