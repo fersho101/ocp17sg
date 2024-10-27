@@ -18,9 +18,9 @@ class Animal {
 }
 
 public class Gorilla extends Animal {
-    public Gorilla(int age) {
-        super(age, "Gor"); // calls the first Animal constructor
-    }
+    // public Gorilla(int age) {
+    //     // super(age, "Gor"); // calls the first Animal constructor
+    // }
 
     public Gorilla() {
         super(5); // calls the second Animal constructor
