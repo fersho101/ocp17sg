@@ -24,5 +24,5 @@ public class Gorilla extends Animal {
 
     // public Gorilla() {
     //     super(5); // calls the second Animal constructor
-    // }
+     }
 }
