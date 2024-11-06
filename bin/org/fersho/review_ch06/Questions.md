@@ -49,3 +49,51 @@ e. If an inherited method returns void, then the overridden version of the metho
 f. None of the above.
 
 ### _A09: b, e._
+
+
+### _Q13. ?Which of these classes compile and will include a default constructor created by the compiler?_
+
+a.
+```java
+public class Bird {}
+```
+b.
+```java
+public class Bird {
+    public bird() {}
+}
+```
+c.
+```java
+public class Bird {
+    public bird(String name) {}
+}
+```
+d.
+```java
+public class Bird {
+    public Bird() {}
+}
+```
+e.
+```java
+public class Bird {
+    Bird(String name) {}
+}
+```
+f.
+```java
+public class Bird {
+    private Bird(int age) {}
+}
+```
+g.
+```java
+public class Bird {
+    public Bird bird() {
+        return null;
+    }
+}
+```
+
+### _A13: a, g._ 

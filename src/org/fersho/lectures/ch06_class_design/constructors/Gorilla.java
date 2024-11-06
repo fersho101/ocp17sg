@@ -19,14 +19,10 @@ class Animal {
 
 public class Gorilla extends Animal {
     public Gorilla(int age) {
-         super(age, "Gor"); // calls the first Animal constructor
+        super(age, "Gor"); // calls the first Animal constructor
     }
 
     public Gorilla() {
         super(5); // calls the second Animal constructor
-<<<<<<< HEAD
     }
-=======
-     }
->>>>>>> 39192b1c9599b317619c6ea84c9329df2ba28fe6
 }
