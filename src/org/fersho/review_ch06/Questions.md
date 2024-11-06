@@ -33,3 +33,19 @@ e. Overriden methods must the same return type.
 f. Hidden methods must have the same return type.
 
 ### _A03. b, c._
+
+### _Q09. Which of the following statements about overriden methods are true?_
+
+a. An overriden method must contain method parameters that are the same or covariant with the method parameters in the inherited method.
+
+b. An overriden method may declare a new exception, provided it is not checked.
+
+c. An overriden method must be more accessible than the method in the parent class.
+
+d. An overriden method may declare a broader checked exception than the method in the method in the parent class.
+
+e. If an inherited method returns void, then the overridden version of the method must return void. 
+
+f. None of the above.
+
+### _A09: b, e._
