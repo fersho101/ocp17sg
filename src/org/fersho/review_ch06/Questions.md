@@ -97,3 +97,19 @@ public class Bird {
 ```
 
 ### _A13: a, g._ 
+
+### _Q14. Which of the following statements about inheritance are correct?_
+
+a. A class can directly extend any number of class.
+
+b. a class can implements any number of interfaces.
+
+c. all variables inherit java.lang.Object.
+
+d. if a class A is extended by B, then B is a superclass of A.
+
+e. if a class C implements inteface D, then C is a subtypeof D.
+
+f. Multiple inheritance is the property of a class to have multiple direct superclass.
+
+### _A14: b, e, f._
