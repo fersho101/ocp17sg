@@ -113,3 +113,19 @@ e. if a class C implements inteface D, then C is a subtypeof D.
 f. Multiple inheritance is the property of a class to have multiple direct superclass.
 
 ### _A14: b, e, f._
+
+### _Q17. Which of the following are true?_
+
+a. this() can be called from anywhere in a constructor.
+
+b. this() can be called from anywhere in an instance method.
+
+c. this.varibleName can be called from any instance method in the class.
+
+d. this.varibleName can be called from any static method in the class.
+
+e. You can call the default contructor written by the compiler using this().
+
+f. You can access a private constructorwith the main() metyhod in the same class.
+
+### _A17. c, f._
