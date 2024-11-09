@@ -129,3 +129,22 @@ e. You can call the default contructor written by the compiler using this().
 f. You can access a private constructorwith the main() metyhod in the same class.
 
 ### _A17. c, f._
+
+
+### _Q21. Which of the following are properties of immutable class?_
+
+a. The class can contains setter methods, provided they are marked final.
+
+b. The class must not be able to be extended outside the class declaration.
+
+c. The class may not contain any instance variable.
+
+d. The class most be marked static.
+
+e. The class may not contain any static variables.
+
+f. The  class may only contain private constructor.
+
+g. The data for mutable instance variables may be read, provided they cannot modified by the caller.
+
+### _A20: b, g ._
