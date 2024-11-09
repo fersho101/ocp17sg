@@ -147,4 +147,18 @@ f. The  class may only contain private constructor.
 
 g. The data for mutable instance variables may be read, provided they cannot modified by the caller.
 
-### _A20: b, g ._
+### _A20: b, g .
+
+### _Q25. Which of the following are true about a concrete class?_
+
+a. A concrete class can be declared as abstract.
+
+b. A concrete class must implement all inherit abstract methods.
+
+c. A concrete class can be marked as final.
+
+d. A concrete class must be immutable.
+
+e. A concrete method that implements an abstract method must match the method declaration of the abstract method exactly.
+
+### _A25: b, c._
