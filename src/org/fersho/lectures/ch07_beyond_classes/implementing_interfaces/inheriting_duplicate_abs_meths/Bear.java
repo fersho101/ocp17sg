@@ -9,7 +9,7 @@ interface Omnivore {
 }
 
 interface Carnivore {
-    public void eatMeat():
+    public void eatMeat();
 }
 
 interface Carnivore2 {
