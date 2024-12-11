@@ -1,4 +1,4 @@
-package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.inheriting_duplicate_abs_meths;
+package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.abstract_mths_and_const.inheriting_duplicate_abs_meths;
 
 interface Herbivore {
     public void eatPlants();

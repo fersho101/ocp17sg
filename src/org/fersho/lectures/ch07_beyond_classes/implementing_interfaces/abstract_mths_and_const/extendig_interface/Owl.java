@@ -1,4 +1,4 @@
-package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.extendig_interface;
+package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.abstract_mths_and_const.extendig_interface;
 
 public class Owl implements HashBigEyes {
 

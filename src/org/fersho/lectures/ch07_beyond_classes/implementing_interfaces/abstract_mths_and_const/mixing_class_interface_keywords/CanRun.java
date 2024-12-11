@@ -1,4 +1,4 @@
-package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.mixing_class_interface_keywords;
+package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.abstract_mths_and_const.mixing_class_interface_keywords;
 
 public interface CanRun {
 

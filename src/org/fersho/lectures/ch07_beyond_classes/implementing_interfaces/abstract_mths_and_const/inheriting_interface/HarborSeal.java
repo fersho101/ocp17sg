@@ -1,4 +1,4 @@
-package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.inheriting_interface;
+package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.abstract_mths_and_const.inheriting_interface;
 
 public abstract class HarborSeal implements HasTail, HasWhiskers {
 

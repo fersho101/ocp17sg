@@ -1,6 +1,6 @@
 package org.fersho.lectures.ch06_class_design.constructors;
 
-class Animal {
+// class Animal {
 //     private int age;
 //     private String name;
 
@@ -25,4 +25,4 @@ class Animal {
 //     public Gorilla() {
 //         super(5); // calls the second Animal constructor
 //     }
-}
+// }
