@@ -1,4 +1,4 @@
-package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.default_interface_method;
+package org.fersho.lectures.ch07_beyond_classes.implementing_interfaces.default_interface_method.writing;
 
 public interface IsColdBlooded {
     boolean hasScales();
